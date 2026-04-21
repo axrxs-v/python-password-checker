@@ -1,5 +1,6 @@
 # Python Workspace
 # trigger CI
+# Testing CI pipeline
 Šis ir mans Python treniņu repozitorijs, kurā es mācos un praktizēju:
 
 - Python pamatus
