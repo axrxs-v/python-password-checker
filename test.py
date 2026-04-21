@@ -7,3 +7,5 @@ i: int = 0
 while i < 3:
   print(i)
   i += 1
+
+print("this is branch test")
