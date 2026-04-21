@@ -1,5 +1,5 @@
 # Python Workspace
-
+# trigger CI
 Šis ir mans Python treniņu repozitorijs, kurā es mācos un praktizēju:
 
 - Python pamatus
